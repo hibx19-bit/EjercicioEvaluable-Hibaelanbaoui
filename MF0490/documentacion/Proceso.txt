@@ -20,3 +20,7 @@ En este archivo enumere los comandos de Git que he utilizado durante la realizac
 	Git pull origin Faeture/hibaelanbaoui
 	Realizar la fusión
 	Git merge feature/hibaelanbaoui
+
+
+Comprobación del resultado final.
+Guarda los cambios y crea un tercer commi
