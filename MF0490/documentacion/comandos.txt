@@ -1,0 +1,26 @@
+En este archivo enumere los comandos de Git que he utilizado durante la realización de la práctica.
+	Obtener el repositorio
+	 GitHub
+	Consultar su estado con comando 
+	ls  cd
+	Clonar con GitHub en Git Bash: https://github.com/hibx19-bit/EjercicioEvaluable-Hibaelanbaoui.git
+	Trabajar con ramas
+	Git switch -c Feature/hibaelanbaoui
+	Preparar cambios 
+	Git add Readme.md
+	Crear Commits
+	Git commint -m
+	Publicar cambios
+	Git push
+	Gits push -u origin
+	Git push origin Feature/hibaelanbaoui
+	Trabajar o Actualizar ramas
+	Git pull
+	Git  pull origin main
+	Git pull origin Faeture/hibaelanbaoui
+	Realizar la fusión
+	Git merge feature/hibaelanbaoui
+
+
+Comprobación del resultado final.
+Guarda los cambios y crea un tercer commi
